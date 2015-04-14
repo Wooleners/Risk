@@ -1,4 +1,4 @@
-[Risk](https://github.com/Wooleners/Risk) -  Simple Better
+[Risk](https://github.com/Wooleners/Risk)
 ==================================================
 
-极致 前端 JavaScript 组件库
+###前端JavaScript 组件库
